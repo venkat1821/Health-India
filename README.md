@@ -32,15 +32,33 @@ This is a web based application developed for health related information website
 
 
 
+
+
 ## POST 1
 ![image](https://user-images.githubusercontent.com/113108835/193580623-4594d10d-8509-4f74-a1c1-ec52012ce411.png)
 **LINK**-https://health-india.azurewebsites.net/2022/10/03/how-daily-breathing-exercises-can-help-lower-blood-pressure-as-much-as-medication/
+
+
+
+
+
+
 ## POST2
 ![image](https://user-images.githubusercontent.com/113108835/193580776-00f03fde-11e8-4607-887c-434b51dec74f.png)
 **LINK**-https://health-india.azurewebsites.net/2022/10/03/yes-vaccines-are-safe-even-after-a-study-looked-at-potential-link-to-asthma/
+
+
+
+
+
 ## POST 3
 ![image](https://user-images.githubusercontent.com/113108835/193580947-099e4b95-0323-4f57-9190-564655edf4a4.png)
  **LINK** - https://health-india.azurewebsites.net/2022/10/03/not-everyone-gets-healthier-when-they-lose-weight/
+ 
+ 
+ 
+ 
+ 
 ## POST 4
 ![image](https://user-images.githubusercontent.com/113108835/193581156-f613c966-81d0-4aec-a0cf-2cc1e4fdb2e5.png)
 **LINK** -https://health-india.azurewebsites.net/2022/10/03/experts-have-beef-with-study-linking-depression-and-vegetarian-diet/
